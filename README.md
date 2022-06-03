@@ -5,5 +5,5 @@ My first ever programming course, in the language of C!
 
 ### Final Lab was the final project :trophy:
 
-### Learning C is all my learning journey :brain:
+### Learning C is some of my learning journey :brain:
 Was my first ever experience with coding :sweat_smile:
